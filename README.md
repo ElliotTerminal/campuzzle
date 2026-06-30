@@ -1,7 +1,21 @@
-# CamPuzzle — Gesture Capture
+<h1 align="center">CamPuzzle — Gesture Capture</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Author-ElliotTerminal-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-CSS-purple?style=flat-square">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square">
+    <img src="https://img.shields.io/badge/HTML-orange?style=flat-square">
+</p>
+
+---
+
+### Inspired from [`UNNATI TRIPATHI`](https://github.com/Unnati-23) (follow her on [`Instagram`](https://www.instagram.com/aiwithunnati))
+
+---
+
 **© 2026 ElliotTerminal — all rights reserved**
 
-A hand-gesture controlled photo-booth puzzle game that runs entirely in your browser. No installation, no backend, no frameworks. Just your hands and a webcam.
+A hand-gesture controlled photo-booth puzzle game that runs entirely in your browser. No installation, no backend, no frameworks. Just your hands and a webcam. Now with more features.
 
 ---
 
