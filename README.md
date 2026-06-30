@@ -13,6 +13,10 @@
 
 ---
 
+### 🌍 TRY YOURSELF : https://elliotterminal.github.io/campuzzle/
+
+---
+
 **© 2026 ElliotTerminal — all rights reserved**
 
 A hand-gesture controlled photo-booth puzzle game that runs entirely in your browser. No installation, no backend, no frameworks. Just your hands and a webcam. Now with more features.
