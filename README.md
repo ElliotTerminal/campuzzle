@@ -9,7 +9,7 @@ A hand-gesture controlled photo-booth puzzle game that runs entirely in your bro
 
 You use your hands as a camera frame, pinch to take a photo, solve a puzzle with your fingers, and watch it shatter into a polaroid strip. The whole thing runs in one browser tab with zero setup.
 
-Built with Vanilla JavaScript, MediaPipe hand tracking, and the Web Audio API. No React. No npm. Nothing to install.
+Built with Vanilla JavaScript, MediaPipe hand tracking, and the Web Audio API. No React. No npm. No installation.
 
 ---
 
