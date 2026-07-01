@@ -13,7 +13,7 @@
 
 ---
 
-### 🌍 TRY YOURSELF : https://elliotterminal.github.io/campuzzle/
+### 🌍 TRY YOURSELF (DEMO): https://elliotterminal.github.io/campuzzle/
 
 ---
 
