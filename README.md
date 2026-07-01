@@ -15,6 +15,9 @@
 
 ### 🌍 TRY YOURSELF (DEMO): https://elliotterminal.github.io/campuzzle/
 
+### ▶︎  Preview :
+![](banners/preview.gif)
+
 ---
 
 **© 2026 ElliotTerminal — all rights reserved**
@@ -23,7 +26,7 @@ A hand-gesture controlled photo-booth puzzle game that runs entirely in your bro
 
 ---
 
-## What is this?
+## What is CamPuzzle?
 
 You use your hands as a camera frame, pinch to take a photo, solve a puzzle with your fingers, and watch it shatter into a polaroid strip. The whole thing runs in one browser tab with zero setup.
 
